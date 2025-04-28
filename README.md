@@ -3,7 +3,7 @@
 Repositório com os exercícios que estou fazendo para aprender Python. 
 Estou seguindo o curso *Python 3 - Mundo 1* do Guanabara (Curso em Vídeo) e organizando tudo aqui pra acompanhar meu progresso.
 
-## 📚 Conteúdo:
+## Conteúdo:
 
 - Aula 6 — Tipos Primitivos e Saída de Dados
 - Aula 7 — Operadores Aritméticos
@@ -12,16 +12,16 @@ Estou seguindo o curso *Python 3 - Mundo 1* do Guanabara (Curso em Vídeo) e org
 
 Cada pasta tem os exercícios separados certinho pra ficar mais fácil de visualizar.
 
-## 🚀 Tecnologias:
+## Tecnologias:
 
 - Python 3.12
 - VS Code
 - Git e GitHub
 
-## 🔥 Objetivo:
+## Objetivo:
 
 Praticar a base da programação com Python e ir evoluindo pra fazer projetos maiores depois.
 
 ---
 
-👨‍💻 Feito por [leanttro](https://github.com/leanttro)
+Feito por [leanttro](https://github.com/leanttro)
