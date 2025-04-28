@@ -1,6 +1,11 @@
-n = float(input("Qual o preço do produto:R$"))
-#n1 = n / 100
-#n2 = n1*5
-#n3 = n - n2
-n4 = n - (n*5 /100)
-print("O preço que custava R${:.2f} , na promoção com 5% de desconto, vai custar R${:.2f}".format(n,n4))
+l = float(input("Largura da parede(m): "))
+a = float(input("Altura da parede(m): "))
+m = l * a
+t = m * 1/2
+
+print("Sua parede tem a dimensão de {} x {}, a área é de {}. \nPara pintar essa parede, você precisa de {} litros de tinta".format(l,a,m,t))
+
+l = float(input("Largura da parede(m): "))
+a = float(input("Altura da parede(m): "))
+m = l * a
+print("Sua parede tem a dimensão de {:.2f} x {:.2f}, a área é de {:.2f}. \nPara pintar essa parede, você precisa de {:.2f} litros de tinta".format(l,a,m,(l*a) * 1/2))
