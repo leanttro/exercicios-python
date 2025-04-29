@@ -2,7 +2,7 @@ from random import randint
 from time import sleep
 n = randint(0,5)
 print("========================================================================")
-print("        Vou pensar em um número de 0 - 5. Tente advinhar qual!:)        ")
+print("        Vou pensar em um número de 0 - 5. Tente adivinhar qual!:)        ")
 print("========================================================================")
 n1 = int(input("Qual o número eu pensei: "))
 print("PROCESSANDO...")
