@@ -9,6 +9,8 @@ Estou seguindo o curso *Python 3 - Mundo 1* do Guanabara (Curso em Vídeo) e org
 - Aula 7 — Operadores Aritméticos
 - Aula 8 — Utilizando Módulos
 - Aula 9 — Manipulando Texto
+- Aula 10 — Condições (Parte I)
+- Aula 11 — Adicionando Cores ao Python
 
 Cada pasta tem os exercícios separados certinho pra ficar mais fácil de visualizar.
 
